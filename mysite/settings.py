@@ -25,7 +25,7 @@ SECRET_KEY = 'vji=+-gkaia#vw(kng2e)$ndra7%c^=chn=$z*yj6p5^4nan%x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
